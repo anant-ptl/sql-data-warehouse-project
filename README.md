@@ -72,9 +72,7 @@ data-warehouse-project/
 │
 ├── tests/ # Data quality and validation scripts
 │
-├── README.md # Project overview and instructions
-├── LICENSE # License information
-└──requirements.txt # Project requirements
+└──README.md # Project overview and instructions
 ```
 
 ---
