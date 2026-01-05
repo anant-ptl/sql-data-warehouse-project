@@ -22,9 +22,9 @@ data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
-├── docs/                               # Project documentation and architecture details
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture              
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
+├── docs/                               # documentation and architecture details
+│   ├── data_architecture.drawio        # file shows the project's architecture              
+│   ├── data_models.drawio              # file for data models (star schema)
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
@@ -33,9 +33,7 @@ data-warehouse-project/
 │
 ├── tests/                              # Test scripts and quality files
 │
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository                   
-└── requirements.txt                    # Dependencies and requirements for the project
+└── README.md                           # Project overview and instructions               
 ```
 
 ---
